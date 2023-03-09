@@ -474,6 +474,7 @@ footer {
 
   .nav__link {
     font-size: 1rem;
+    color: var(--txt-clr);
   }
 
   .main__article-header {
